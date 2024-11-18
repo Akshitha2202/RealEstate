@@ -58,7 +58,7 @@ function CardDetails() {
 
     const property = properties.find(p => p.id === parseInt(id));
 
-    return (
+    return (  
         <div>
             <Navbar />
             
